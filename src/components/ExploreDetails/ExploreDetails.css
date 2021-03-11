@@ -1,0 +1,29 @@
+
+.club-card {
+background: #ff3842;
+border-radius: 15px;
+}
+
+.club-details {
+background: #0E0A2B;
+}
+
+.description {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 28px;
+    color: #C6C6C6;
+}
+
+.logo{
+    width:15%;
+    position:relative;
+    
+}
+
+.card-txt h1,p{
+    color: #fff;
+}
+
